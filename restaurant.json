@@ -1,0 +1,63 @@
+{
+  "restaurants" :[{
+    "id": 1,
+    "name": "Banana Leaf",
+    "neighborhood": "Borivali",
+    "address": "Aditya Aparments",
+    "cuisine_type": "Indian"
+  }, {
+    "id": 2,
+    "name": "Subway",
+    "neighborhood": "Mahavir Nagar",
+    "address": "Near Pragati Apartments",
+    "cuisine_type": "Healthy Food"
+  }, {
+    "id": 3,
+    "name": "McDonalds",
+    "neighborhood": "Borivali",
+    "address": "Near Borivali Station",
+    "cuisine_type": "Fast Food"
+  }, {
+    "id": 4,
+    "name": "Bhagwati",
+    "neighborhood": "Charkop",
+    "address": "Kesar Shopping Centre",
+    "cuisine_type": "Indian"
+  }, {
+    "id": 5,
+    "name": "Snakie",
+    "neighborhood": "Charkop",
+    "address": "Supriya Apartments",
+    "cuisine_type": "Fast Food"
+  }, {
+    "id": 6,
+    "name": "BBQ",
+    "neighborhood": "Growels",
+    "address": "Kandivali",
+    "cuisine_type": "Barbaque"
+  }, {
+    "id": 7,
+    "name": "China Town",
+    "neighborhood": "Malad",
+    "address": "Near Malad Station",
+    "cuisine_type": "Chinese"
+  }, {
+    "id": 8,
+    "name": "Sukh Sagar",
+    "neighborhood": "Mahavir Nagar",
+    "address": "Panchasheel Apartments",
+    "cuisine_type": "Indian"
+  }, {
+    "id": 9,
+    "name": "StarBucks",
+    "neighborhood": "Mahavir Nagar",
+    "address": "Near D-Mart",
+    "cuisine_type": "Cafe"
+  }, {
+    "id": 10,
+    "name": "Jay Food Corner",
+    "neighborhood": "Mahavir Nagar",
+    "address": "JPanchasheel Apartments",
+    "cuisine_type": "South Indian"
+  }]
+}
